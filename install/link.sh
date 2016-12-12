@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/bash
 
 DOTFILES=$HOME/git/dotfiles
 
